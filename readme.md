@@ -37,7 +37,7 @@ For future considerations, I would make this more reusable. For instance, I hard
 
 I would also add the ability to add a source file as an input argument into the file as part of the CLI.
 
-I would also add more robust testing. To make this document reusable, would need more robust checking and tools to clean data. 
+I would also add more robust testing. To make this document reusable, would need more robust checking and tools to clean data. For example, checking that number of rows in destination csv match the number of rows in the document would be helpful. It isn't as simple as getting a count because there are rows in the document that contain text that are unrelated to the number of rows in the final CSV
 
 # How this was tested
 I used console printing and manual checks to test this code worked against the document given.
