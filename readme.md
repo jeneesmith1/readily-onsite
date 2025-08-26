@@ -2,16 +2,14 @@
 
 This was a part of a case study for the Readily team. 
 
-<mark> The goal is to map the data from a CSV that health auditors might use into a structured data format for the Readily product. </mark>
+<mark> The goal is to map the data from a CSV that health auditors might use into a structured CSV for the Readily product. </mark>
 
+I created this script using a combination of documentation, my own abilities, and Gemini to assist in this project. 
 
-In reflecting on the assignment, I have used pandas and numpy before, but spent some time reading the documentation as I could not remember any of the syntax.
+I have included my self-written code inside of self-written.py, the list of Gemini prompts I used to inform my development, and the Gemini-tested code I used. The final product was written by Gemini.
 
-The documentation was helpful as I was able to locate built in functions to trim blank values, search by a given pattern, and skip the top rows. 
+I enjoyed the process of completing the mapping. I spent the majority of my self-written work splitting the tables.
 
-I could see that there were two header rows within the tables provided - Element Row and Auditing/Requirement Element Rows and I spent the majority of my time thinking about how to get the tables split up based on the header row indices. 
-
-I used Gemini for brainstorming and to help me remember how to do some simple things. I have included Gemini Prompts I used as well as some of the code from Gemini that I tested locally. 
 
 # Files in this Project
  | Files | 
@@ -23,7 +21,7 @@ I used Gemini for brainstorming and to help me remember how to do some simple th
  | 5. Gemini-prompts.txt - prompts that I asked Gemini in developing this. I did not use Cursor as I did not have any Cursor credits left for the day. |
  | 6. source.csv |
 
- # How to run:
+ # How to run this work:
  ```
  python create-health_requirement_csv.py
  ```
