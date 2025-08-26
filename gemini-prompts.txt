@@ -1,0 +1,74 @@
+1. Can you help me write a pandas python script to help me find the multiple headers within this file named as "Contracted/Regulatory Requirements" and "Audit Elements" in this file
+
+2. The file has a multi-index header that reoccurs within the CSV. Can you help me write a python script using pandas to find multiple rows within those tables.
+
+3. how do I publish this chat log
+
+4. I want a function to group the columns under a top level header that is not hard coded. The structure would look like Element X : [some amount of text], 'Audit Elements'
+
+5. This code only helps me to locate the first instance of Element A. I also want to locate Element B and Element C and the corresponding subheaders within this document
+
+6. I want a pandas function to split source_csv into tables or dataframes by each row that starts with "Element" in source_csv
+
+7. AttributeError: 'DataFrame' object has no attribute 'str'. Did you mean: 'std'
+
+8. I have two dataframes - Dataframe 1 = 12                Element B: Interest & Penalties 
+
+20                  Element C: Claim Overpayments 
+
+30            Element D: Coordination Of Benefits 
+
+39                    Element E: Claims Oversight 
+
+48                   Element F: Emergency Services
+
+55           Element G: Special Arrangement Claims
+
+64                  Element H: Misdirected Claims 
+
+71    Element J: Provider Dispute Resolution (PDR) and source.csv.
+
+
+
+I want to create a set of dataframes which contain the rows and columns beginning with rows that match column 2 in Dataframe 1
+
+9. dataset = [0, 12, 20, 30] I want to write a function that will take my dataset and create an array that goes from {[0,12], [12,20]} and so forth in the document
+
+10. I want to iterate over the source_csv that I have iterating based on the indices given in the pairs_array I created earlier
+
+11. policy_table = source_csv.iloc[start:end].copy() How do I remove rows that are blank or Nan
+
+12. (virtual_envs) MacBook-Air:readily jeneesmith$ python ingest-csv.py 
+Requirement Data
+Traceback (most recent call last):
+  File "/Users/jeneesmith/Documents/readily/ingest-csv.py", line 89, in <module>
+    print(create_tables(source_csv=source_csv, header_row_table=header_row_table))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jeneesmith/Documents/readily/ingest-csv.py", line 51, in create_tables
+    citations_requirements = get_citations_and_requirement_elements(policy_table)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jeneesmith/Documents/readily/ingest-csv.py", line 63, in get_citations_and_requirement_elements
+    requirement_items = get_requirement_elements(index_array_no_header_rows.iloc[:, 1])
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jeneesmith/Documents/readily/ingest-csv.py", line 75, in get_requirement_elements
+    print(get_element_and_index(requirement_data.iloc[row], "."))
+                                ~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "/Users/jeneesmith/Documents/virtual_envs/lib/python3.12/site-packages/pandas/core/indexing.py", line 1191, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jeneesmith/Documents/virtual_envs/lib/python3.12/site-packages/pandas/core/indexing.py", line 1749, in _getitem_axis
+    raise TypeError("Cannot index by location index with a non-integer key")
+TypeError: Cannot index by location index with a non-integer key 
+
+help with error def get_requirement_elements(requirement_data):
+     print("Requirement Data")
+     for row in requirement_data:
+        print(get_element_and_index(requirement_data.iloc[row], "."))
+     return
+(NOTE I ALSO COPIED the entire file I had created for this prompt and it rewrote it for me)
+
+13. I want to modify that to save the file in a new csv called destination.csv with headers [element_index, element, requirement_index, requirement, citations]
+
+
+
+

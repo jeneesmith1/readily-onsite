@@ -1,0 +1,110 @@
+element_index,element,citations,requirement_index,requirement
+Element A,Claims Processing,"
+28 CCR 1300.71 (a)(2) (a)-(f)
+CCR 1300.71 (a)(6)
+
+",1,"Policy and procedure(s) outlining the organization's mail room process for receiving and entering paper and electronic claims. Policy should identify  acceptable methods of claim receipt (i.e. mail, fax, Clearinghouse),  date of receipt definition, and date stamp procedure."
+Element A,Claims Processing,"
+28 CCR 1300.71(b)(1)-(3)
+",2,"Policy or procedure(s) identifying the organization shall not impose a deadline for the receipt of a claim that is less than 90 days for contracted providers and 180 days for non-contracted providers after the date of service, except as required by any state or federal law or regulation"
+Element A,Claims Processing,"
+28 CCR 1300.71(b)(4)
+22 CCR  51008.5
+
+",3,"Policy and Procedure(s) outlining the process for accepting and adjudicating late claims, when accompanied by a provider dispute and where the provider can demonstrate good cause for the delay, in accordance with Section 1371 or Section 1371.35 and applicable regulations"
+Element A,Claims Processing,"
+28 CCR 1300.71(a)(3)(A)-(C)",4,Policy and procedure(s)outlining the requirement to calculate reasonable and customary rates based on statistically credible information that is updated at least annually.
+Element A,Claims Processing,"
+28 CCR 1300.71(g)
+HSC 1371(a)(1)
+",5,"Policy and procedure(s) outlining the process for categorizing claim statuses, and process for reimbursing a complete claim, or portion thereof, that is not contested or denied within 45 working days after the date of receipt of the claim."
+Element A,Claims Processing,"28 CCR 1300.71 (h)(3)
+HSC 1371",6,"Policy and procedure(s) outlying the process for ensuring the timely and accurate denial/contestation of claims, including notifications, requests for additional information and medical review. As well as completing reconsideration of claims contested for not enough information reasonably necessary to determine payer liability within 45, after receipt of the necessary information"
+Element B,Interest & Penalties,"28 CCR 1300.71 (i) (1-2)
+28 CCR 1300.71(a)(1) (a -b)
+HSC 1371
+APL 23-020",1,"Policy and procedure(s) outlining the requirement for late payments on emergency and non- emergency claims, automatically (within five (5) working days of the payment of the claim without the need for any reminder or request by the provider), to  include interest that is the greater of $15 for each 12-month period or portion thereof (non-prorated), or interest at the rate of 15 percent per annum beginning the first calendar day after the 45th working day."
+Element B,Interest & Penalties,"
+28 CCR 1300.71(j)",2,Policy and Procedure(s) outlining the requirement for all complete claims that fail to include the interest due on a late claim payment shall pay the provider $10 for that late claim in addition to any interest amounts due.
+Element C,Claim Overpayments,"28 CCR 1300.71(b)(5)
+",1,Policy and procedure(s) outlining the process for submitting requests for reimbursement via written notice of overpayment to a provider within 365 days of date of payment
+Element C,Claim Overpayments,"28 CCR 1300.71 (d)
+
+APL 23-011",2,"Policy and procedure(s) outlining the process to ensure overpayments and recoveries of overpayments to a network provider, including overpayments due to fraud, waste, or abuse."
+Element C,Claim Overpayments,"28 CCR 1300.71 (d)(6)
+",3,Policy and procedure(s) outlining the requirements for offsetting uncontested provider reimbursements.
+Element C,Claim Overpayments,"28 CCR 1300.71(d)(4)
+",4,Policy and procedure(s) identifying the process for the provider to contest notice of claim overpayment within 30 working days from the receipt of the notice.
+Element D,Coordination Of Benefits,DHCS APL 22-027,1,Policy and procedure(s) outlining the process to report other health coverage (OHC)not found on the Medi-Cal Eligibility Record or OHC information that is different from what is found on the Medi-Cal Eligibility Record to DHCS within ten calendar days of discovery
+Element D,Coordination Of Benefits,DHCS APL 22-027,2,"Policy and procedure(s) referencing the requirement to not process claims for a member whose Medi-Cal Eligibility Record indicates Other Health Coverage (OHC) , other than a code of A or N, unless the provider presents proof that all sources of payment have been exhausted, or the provided service meets the requirement for billing Medi-Cal directly"
+Element D,Coordination Of Benefits,DHCS APL 22-027,3,"Policy and procedure(s) identifying acceptable forms of proof that all sources of payment have been exhausted include a denial letter from the Other Health Coverage (OHC) for the service, an explanation of benefits indicating that the service is not covered by the OHC, or documentation that the provider has billed the OHC and received no response for 90 days"
+Element E,Claims Oversight,2024 DHCS Contractual Requirement    ,1,"Policy and procedure(s) outlining the organizations process for conducting the following claim related audits:
+(a) End to End Claim Process
+(b) Quality Assurance 
+(c) Compliance Audits"
+Element E,Claims Oversight,2024 DHCS Contractual Requirement    ,2,"Policy and/or process document outlining the organizations process for conducting oversight and quality assurance audits related to claims (timeliness, processing, and payment performance metrics). Process includes remediation efforts for claims standards not met, to ensure corrective actions were properly implemented and identified issues resolved."
+Element E,Claims Oversight,2024 DHCS Contractual Requirement    ,3,"Policy and procedure(s) outlining the organizations process for producing accurate, timely and relevant reports that allow management to review data and make decisions related to:
+• Claims processing (timeliness of payments, payment accuracy, claims status, inventory, backlog, deficiencies, trends, etc.)
+• Statutory and regulatory compliance
+• Audits
+• Corrective Action Plans and implementation"
+Element F,Emergency Services,"(1) 2024 DHCS Contractual Requirement
+(2) HSC 1317.1 
+(3) 42 CFR 438.114 ",1,"Policy and/or procedure document defines the organization’s definition of an emergency or emergency services. Document also identifies that contracted and non-contracted provider emergency service and post stabilization care service claims do not require an authorization, and may not be denied payment for treatment obtained when an enrollee had an emergency medical condition, including cases in which the absence of immediate medical attention would not have had the outcomes specified in 42 CFR 438.114 (a) of the definition of emergency medical condition. Further, Contractor may not deny payment for treatment obtained when a representative of Contractor instructs the enrollee to seek Emergency Services. do not require an authorization for payment."
+Element G,Special Arrangement Claims,"22 CCR 51305.1
+
+",1,"Policy outlining the requirement for sterilization to be performed only if the following conditions are met:
+(1) The individual is at least 21 years old at the time consent is obtained.
+(2) The individual is not a mentally incompetent individual.
+(3) The individual is able to understand the content and nature of the informed consent process as specified in 51305.3.
+(4) The individual is not an institutionalized individual.
+(5) The individual has voluntarily given informed consent in accordance with all the requirements prescribed in Section 51305.1 through 51305.4.
+(6) At least 30 days, but not more than 180 days, have passed between the date of written informed consent and the date of the sterilization"
+Element G,Special Arrangement Claims,"
+22 CCR 51305.1
+22 CCR 51305.4",2,"Policy outlining the requirement for At least 30 days, but no more than 180 days, have passed between the date of written and signed consent and date of sterilization except in the following instances:
+• Sterilization may be performed at time of emergency abdominal surgery if:
+– Patient consented to the sterilization at least 30 days before the intended date of sterilization, and
+– At least 72 hours have passes after written informed consent was given and the performance of emergency surgery.
+• Sterilization may be performed at time of premature delivery if following requirements are met:
+– The written consent was given at least 30 days before the expected date of delivery, and
+– At least 72 hours passed after written informed consent to be sterilized was given"
+Element G,Special Arrangement Claims,"2024 DHCS Contractual Requirement    
+22 CCR 51305.1
+22 CCR 51305.3 (d.3)
+22 CCR 51305.4",3,"Claims Operations Manual specifies that the organization requires the State of California Health and Welfare Consent Form (PM330) form is completed and signed in accordance with CCR: Title 22 regulations and attached to each claim before such services are be reimbursed.
+
+changed to:
+Policy or Claims Operations Manual referencing the requirement to utilize the  State of California Health and Welfare Consent Form (PM330), it is completed by the provider and the member,  the consent form is signed in accordance with CCR: Title 22 regulations, and is submitted with each claim in order for services to be  reimbursed."
+Element H,Misdirected Claims,"
+28 CCR 1300.71(b)(2)-(3)",1,"Policy and procedure(s) describing the process for handling misdirected claims. If a claim is sent to the delegate and is identified as the health plans responsibility, the  delegate will forward the claim to the health plan within ten (10) working days of the receipt of the claim being incorrectly sent to the delegate."
+Element J,Provider Dispute Resolution (PDR),"
+28 CCR 1300.71.38(c) (1)-(4)
+28 CCR 1300.71 (I) (1) -(4) 
+2024 DHCS Contractual Requirement
+",1,"Policy and procedure(s) references the organization has  a fast, fair, and cost-effective Provider Dispute Resolution Mechanism in place for Network Providers and out-of-Network Providers to submit disputes , and at a minimum include the following:
+
+(1) Instructions on  submitting a provider dispute (contract and non contracted)
+
+(2) Process for linking  the provider dispute with the number assigned to the original claim.
+
+(3) Process for supplying non contracted providers directions for obtaining forms and instructions for filing a provider dispute. (i.e. PDR directions supplied on the provider remittance advice)"
+Element J,Provider Dispute Resolution (PDR),"28 CCR 1300.71.38(d)(1)
+",2,Policy and procedure(s) identifying the receipt of a provider dispute being received 365 days from the  provider’s most recent action or in the case of inaction that is less than 365 days after the most recent time for contesting or denying claims has expired.
+Element J,Provider Dispute Resolution (PDR),"28 CCR 1300.71 (l)(4)
+",3,Policy & procedure(s) that outline the directions for filing substantially similar multiple claims disputes and other billing or contractual disputes in batches as a single provider dispute that includes a numbering scheme identifying each dispute contained in the bundled notice
+Element J,Provider Dispute Resolution (PDR),"28 CCR 1300.71.38 (d)(3)
+
+",4,"Policy and procedure(s) outlining the amended dispute process including the following:
+ (1) Disputes may be returned if they do not clearly identify the disputed item or an explanation of the basis for the provider’s dispute. 
+(2)  Returned disputes must clearly identify the missing information needed to resolve the dispute. 
+(3) Providers have 30 days from receipt of a returned dispute to submit any missing information"
+Element J,Provider Dispute Resolution (PDR),"28 CCR 1300.71.38(e)(1)-(2)
+",5,"Policy and procedure(s) identifying the requirement to send the provider an acknowledgement letter within 2 working days (for electronic submission), and 15 working days (paper submission) of the receipt of the dispute."
+Element J,Provider Dispute Resolution (PDR),"28 CCR 1300.71.38 (f)
+",6,Policies and procedure(s)s outlining the process for resolving and issuing a written determination letter. Resolution letter contains pertinent facts and explains the reasons for the organizations determination and is sent to the provider within forty five (45) working days of receipt of the dispute or returned amended dispute.
+Element J,Provider Dispute Resolution (PDR),"
+28 CCR 1300.71.38 (g)
+",7,Policies and procedure(s)s specify that the organization pays any outstanding monies determined to be due as well as all interests and penalties within 5 working days of the resolution or written determination.
+Element J,Provider Dispute Resolution (PDR),"28 CCR 1300.71.38 (i)
+",8,policy and procedure(s) list the organization  shall not discriminate or retaliate against a provider (including but not limited to the cancellation of the provider’s contract) because the provider filed a contracted provider dispute or a non-contracted provider dispute
