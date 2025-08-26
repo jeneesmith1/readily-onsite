@@ -20,6 +20,7 @@ I enjoyed the process of completing the mapping. I spent the majority of my self
  | 4. gemini-tested-code.py gemini produced code that I tested in developing this work |
  | 5. Gemini-prompts.txt - prompts that I asked Gemini in developing this. I did not use Cursor as I did not have any Cursor credits left for the day. |
  | 6. source.csv |
+ | 7. Test file - gemini created |
 
  # How to run this work:
  ```
