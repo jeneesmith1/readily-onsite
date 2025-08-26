@@ -42,7 +42,8 @@ I would also add more robust testing. To make this document reusable, would need
 
 # How this was tested
 I used console printing and manual checks to test this code worked against the document given.
-6. ![Screenshot of Completed Dataset](Screenshot 2025-08-26 at 3.21.20 PM.png)
+6. <img width="1390" height="974" alt="Screenshot 2025-08-26 at 3 21 20 PM" src="https://github.com/user-attachments/assets/927dd5f3-6b4b-4117-af6d-b9f5c0d7e0aa" />
+
 
 
 # Resources Used:
